@@ -2,7 +2,7 @@
 
 # Amazon-clone
 
-site url: amazon-clone-best.netlify.app
+site url: https://amazon-clone-best.netlify.app/
 
 This is a Amazon clone and it's pretty cool you need firebase to have a database tho.
 
